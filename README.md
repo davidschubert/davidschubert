@@ -2,12 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=davidschubert.com&style=for-the-badge&url=https%3A%2F%2Fdavidschubert.com)](https://davidschubert.com)
 
-## I'm a Designer, Developer and much more!!
+## I'm a Senior UX/UI designer and hobby developer
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning JS, VUE and NUXT 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learning javascript, gatsby.js, next.js
+- 🥅 2022 Goals: Learning javascript, nuxt.js, next.js
 - ⚡ Fun fact: I love to draw and take videos with my iphone and dslr - canon eos m50
 
 ### Connect with me:
