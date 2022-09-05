@@ -4,7 +4,7 @@
 
 ## I'm a Fulltime Freelance UX/UI Designer & Hobby Web Developer
 
-- 🌱 I’m currently learning JS, VUE and NUXT 🤣
+- 🌱 I’m currently learning JS, VUE 3, NUXT 3 🤣 and GSAP
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learning javascript, nuxt.js
 - ⚡ Other fact: I love to draw and take videos with my iphone and dslr - canon eos m50
