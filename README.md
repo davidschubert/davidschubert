@@ -5,11 +5,11 @@
 ## I'm a german Fulltime Freelance UX/UI Designer & Hobby Web Developer currently living at the edge of a vulcano on the beautiful hawai`in island of Maui
 
 - My background is HTML5, CSS, a bit of JS and PHP
-- 🌱 I’m currently learning JS, Vue3, Nuxt3 and Greensock's GSAP
+- 🌱 I’m currently learning JS, Vue 3, Nuxt 3 and Greensock's GSAP
 - 🌱 I’m also currently playing around with different kind of Headless CMS to find one with the best user experience
 - 👯 I’m looking to collaborate and learn with/from other Nuxt 3 coders
-- 🥅 2022 Goals: Learning javascript, vue3 and nuxt3
-- ⚡ Other facts: I love to draw digital on my iPad and take videos with my iPhone 13 Pro and DSLR. So check out my YouTube Channel
+- 🥅 2023/2024 Goals: Learning and working on more Vue 3 and Nuxt 3 Projects
+- ⚡ Other facts: I love to draw digital on my iPad and take videos with my iPhone 13 Pro and Sony FX30. So check out my YouTube Channel
 
 ## Connect with me:
 
